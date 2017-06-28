@@ -1,0 +1,15 @@
+﻿BODY,div {
+	font-family: "ＭＳ ゴシック", "Osaka－等幅";
+	font-size: 13px;
+	background-color: #000000;
+	color: #DDDDDD;
+	line-height: 20px;
+	cursor: default;
+}
+a{
+	color: #DDDDDD;
+	cursor: auto;
+}
+.wh{
+	color: #000000;
+}
