@@ -1,0 +1,9 @@
+﻿{
+  "name": "YUKI.N",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "short_name": "YUKI.N",
+  "description": "Yuki Nagato",
+  "background_color": "#000000"
+}

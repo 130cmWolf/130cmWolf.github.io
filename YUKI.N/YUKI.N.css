@@ -1,9 +1,10 @@
-﻿BODY,div {
+﻿
+BODY,div {
 	font-family: "ＭＳ ゴシック", "Osaka－等幅";
-	font-size: 13px;
+	font-size: 10pt;
 	background-color: #000000;
 	color: #DDDDDD;
-	line-height: 20px;
+	line-height: 10pt;
 	cursor: default;
 }
 a{
@@ -12,4 +13,22 @@ a{
 }
 .wh{
 	color: #000000;
+}
+#container {
+    width: 100%;
+    position: relative;
+    height: auto !important;
+    height: 100%;
+    min-height: 100%;
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 95%;
+    text-align:right;
+
+    display: block;
+    left: 0px;
+    z-index: 9999;
+    padding: 0 auto;
 }
