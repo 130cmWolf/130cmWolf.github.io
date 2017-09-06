@@ -1,6 +1,13 @@
-﻿
+﻿@font-face {
+  font-family: 'yuki.n';
+  font-style: normal;
+  src: url(./yuki.n.eot);
+  src: url(./yuki.n.eot?#iefix) format('embedded-opentype'),
+       url(./yuki.n.woff) format('woff'),
+       url(./yuki.n.ttf) format('truetype');
+}
 BODY,div {
-	font-family: "ＭＳ ゴシック", "Osaka－等幅";
+        font-family: "ＭＳ ゴシック", "Osaka－等幅", "yuki.n";
 	font-size: 10pt;
 	background-color: #000000;
 	color: #DDDDDD;
